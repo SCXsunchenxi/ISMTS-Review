@@ -7,6 +7,6 @@ https://arxiv.org/abs/2010.12493
 
 ## Related Works
 
-| ID  | Year | Title  | Link | Venue|
-|-----|------|--------------|------|
-| 1   | 2015 |Real-Time Patient-Specific ECG Classification by 1-D Convolutional Neural Networks|[link]|                                                                                 
+  | ID  | Year | Title  | Link | Venue|
+  |-----|------|--------------|------|
+  | 1   | 2015 |Real-Time Patient-Specific ECG Classification by 1-D Convolutional Neural Networks|[link]|                                                                                 
