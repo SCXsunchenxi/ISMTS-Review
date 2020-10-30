@@ -7,8 +7,7 @@ https://arxiv.org/abs/2010.12493
 
 ## Related Works
 
-| 水果        | 价格    |  数量  |
-| --------   | -----:   | :----: |
-| 香蕉        | $1      |   5    |
-| 苹果        | $1      |   6    |
-| 草莓        | $1      |   7    |                                                                         
+| ID        | Year    | Title    | Venue  |
+| :--------   | :-----   | :---- | :---- | :---- |
+| 1        | 2018      |Recurrent neural networks for multivariate time series with missing values |Sentific Reports|
+                                                                   
