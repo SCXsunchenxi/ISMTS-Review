@@ -7,6 +7,8 @@ https://arxiv.org/abs/2010.12493
 
 ## Related Works
 
-  | ID  | Year | Title  | Link | Venue|
-  |-----|------|--------------|------|
-  | 1   | 2015 |Real-Time Patient-Specific ECG Classification by 1-D Convolutional Neural Networks|[link]|                                                                                 
+| 水果        | 价格    |  数量  |
+| --------   | -----:   | :----: |
+| 香蕉        | $1      |   5    |
+| 苹果        | $1      |   6    |
+| 草莓        | $1      |   7    |                                                                         
