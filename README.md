@@ -35,20 +35,23 @@ https://arxiv.org/abs/2010.12493
 ## Category of related Works 
 
 ![Image](https://github.com/scxhhh/ISMTS-Review/blob/main/figures/category.png) 
-
-
+  
+  
 ## Conclusion of related Works 
 
 ![Image](https://github.com/scxhhh/ISMTS-Review/blob/main/figures/related_works.png) 
-
+  
+  
 ## Sturcture of EHRs
 
 ![Image](https://github.com/scxhhh/ISMTS-Review/blob/main/figures/EHR.png) 
-
+  
+  
 ## Missing rates of the real-world EHRs datasets
 
 ![Image](https://github.com/scxhhh/ISMTS-Review/blob/main/figures/missing_rate.png) 
-
+  
+    
 ## Sturctures of RNN-based methods
 
 ![Image](https://github.com/scxhhh/ISMTS-Review/blob/main/figures/method_structures.png) 
