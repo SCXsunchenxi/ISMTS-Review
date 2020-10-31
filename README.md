@@ -34,9 +34,11 @@ https://arxiv.org/abs/2010.12493
 
 ## Category of related Works 
 
-![Image](https://github.com/scxhhh/ISMTS-Review/blob/main/figures/category.png) 
-&nbsp
-&nbsp
+![Image](https://github.com/scxhhh/ISMTS-Review/blob/main/figures/category.png)  
+
+we review the related deep learning methods from the perspectives of technology and task.   
+Under the technology-driven perspective, we summarize them into two categories - missing data-based methods and raw data-based methods.  
+Under the task-driven perspective, we also summarize them into two categories - data imputation-oriented and downstream task-oriented.     
   
 ## Conclusion of related Works 
 
