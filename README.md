@@ -32,7 +32,26 @@ https://arxiv.org/abs/2010.12493
 | 21  | 2020  | Kernels for time series with irregularly-spaced multivariate observations                                                | Kernel     | /               |
 | 22  | 2020  | Explainable uncertainty-aware convolutional recurrent neural network for irregular medical time series                   | TNNLS      | /               |
 
+## Category of related Works 
 
+![Image](https://github.com/scxhhh/ISMTS-Review/blob/main/figures/category.png) 
+
+
+## Conclusion of related Works 
+
+![Image](https://github.com/scxhhh/ISMTS-Review/blob/main/figures/related_works.png) 
+
+## Sturcture of EHRs
+
+![Image](https://github.com/scxhhh/ISMTS-Review/blob/main/figures/EHR.png) 
+
+## Missing rates of the real-world EHRs datasets
+
+![Image](https://github.com/scxhhh/ISMTS-Review/blob/main/figures/missing_rate.png) 
+
+## Sturctures of RNN-based methods
+
+![Image](https://github.com/scxhhh/ISMTS-Review/blob/main/figures/method_structures.png) 
 
 
 
