@@ -3,7 +3,15 @@
 Chenxi Sun, Shenda Hong, Moxian Song, and Hongyan Li. 
 https://arxiv.org/abs/2010.12493
 
+## Medical Time Series Data
 
+Sepsis early diagnosis 
+
+COVID-19 mortality classification
+
+MIMIC-III in-hospital mortality classification
+
+ICU mortality data
 
 ## Related Works
 
