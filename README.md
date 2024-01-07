@@ -5,13 +5,13 @@ https://arxiv.org/abs/2010.12493
 
 ## Medical Time Series Data
 
-Sepsis early diagnosis /Data/
+Sepsis early diagnosis: /data/sepsis_data
 
-COVID-19 mortality classification
+COVID-19 mortality classification: /data/covid19_data
 
-MIMIC-III in-hospital mortality classification
+MIMIC-III in-hospital mortality classification: /data/mimiciii_inhospital_mortality_data
 
-ICU mortality data
+ICU mortality data: /data/icu_mortality_data
 
 ## Related Works
 
