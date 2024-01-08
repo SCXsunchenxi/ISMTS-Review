@@ -20,10 +20,10 @@ https://arxiv.org/abs/2010.12493
 | :---| :---- | :---- |
 |UCR comprehensive datasets| / | https://www.cs.ucr.edu/~eamonn/time_series_data_2018 | 
 |UEA comprehensive datasets| / | http://www.timeseriesclassification.com/index.php | 
-|Forecasting comprehensive datasets| / | https://github.com/thuml/Time-Series-Library | 
-|SILSO solor dataset| /other_data/solor_data | https://lasp.colorado.edu/lisird/data/international_sunspot_number ｜
+|Forecasting comprehensive datasets| / | https://github.com/thuml/Time-Series-Library  | 
+|SILSO solor dataset| /other_data/solor_data | https://lasp.colorado.edu/lisird/data/international_sunspot_number   | 
 |USHCN weather dataset| /other_data/usa_weather_data | https://www.ncei.noaa.gov/products/land-based-station/us-historical-climatology-network | 
-|Synthetic electronic medical records| /data/emrbots_data| http://www.emrbots.org   | 
+|Synthetic medical records| /data/emrbots_data| http://www.emrbots.org   | 
 
 
 
